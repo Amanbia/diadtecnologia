@@ -1,7 +1,7 @@
 body {
     margin: 0;
     font-family: "Times New Roman", Times, serif;
-    background: url("imagns/Oceano.video.mp4") no-repeat center center fixed;
+    background: url("imagns/oceanovideo.mp4") no-repeat center center fixed;
     background-size: cover;
     color: #003c4d;
 }
@@ -102,3 +102,4 @@ footer {
   transform: translate(-50%, -50%);
 
 }
+
